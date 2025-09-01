@@ -898,6 +898,10 @@
 
         // Function to fetch AI response
         async function fetchAiResponse(prompt) {
+            if (!navigator.onLine) {
+                return 'Offline mode: AI features are not available. Please check your internet connection.';
+            }
+
             if (!aiConfig.apiKey || !aiConfig.apiBaseUrl || !aiConfig.aiModel) {
                 console.error('AI settings are not configured. Please set API Base URL, API Key, and AI Model in AI Settings.');
                 return '#AI_CONFIG_ERROR!';
