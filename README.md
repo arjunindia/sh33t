@@ -6,7 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-> A feature-rich, browser-based spreadsheet application with virtual scrolling, formula support, AI integration, and seamless data management. Built entirely with vanilla HTML, CSS, and JavaScript.
+> A feature-rich, browser-based spreadsheet application with virtual scrolling, formula support, AI integration, and seamless data management. Built entirely with vanilla HTML, CSS, and JavaScript - all in just 37KB!
 
 [![spreadsheet demo](https://i.ibb.co/7G5Q0YB/vivaldi-7o-GXSc7-TU2-ezgif-com-gif-maker.gif)](https://ibb.co/xSycn2TR)
 *Experience the power of a full-fledged spreadsheet right in your browser!*
