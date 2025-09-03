@@ -8,7 +8,7 @@
 
 > A feature-rich, browser-based spreadsheet application with virtual scrolling, formula support, AI integration, and seamless data management. Built entirely with vanilla HTML, CSS, and JavaScript - all in just 36KB!
 
-[![spreadsheet demo](https://i.ibb.co/7G5Q0YB/vivaldi-7o-GXSc7-TU2-ezgif-com-gif-maker.gif)](https://ibb.co/xSycn2TR)
+[![spreadsheet demo](https://ibb.co/xSycn2TR)](https://i.ibb.co/wNTbndmx/vivaldi-7o-GXSc7-TU2-ezgif-com-gif-maker.gif)
 *Experience the power of a full-fledged spreadsheet right in your browser!*
 
 ## 🌟 Key Features
